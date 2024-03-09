@@ -1,0 +1,8 @@
+zajebao id skroz,
+i mozes kombinovati odd + adjust-font-size odvojeno kao da je odd jedna klasa
+a da se ovo adjust-font-size nadovezuje na to kao npr:
+za keca [ class="odd" ]
+a za tricu [ class="odd adjust-font-size ] tu se zajebalo a za ID drugi cetvri
+id="two" a za cetvorku ide id="four" class="adjust-font-size" i za edit ide #
+u style a razlika je jos sto ovdje ne spajas u class nego zasebno id zasebno 
+ide klasa i tjt
